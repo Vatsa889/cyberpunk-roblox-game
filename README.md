@@ -52,7 +52,7 @@ This game takes inspiration from games like Cyberpunk 2077, my restaurant, the E
   - Unlocking Map
   - Polish with some VFX and stuff
 
--Low priority
+-Low priority Items
   - Changelog
   - Tutorial
   - Daily Quests
